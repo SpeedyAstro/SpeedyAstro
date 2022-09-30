@@ -1,32 +1,12 @@
-### Hi there 👋<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anubhav Pandey
+======================================================================================================================================
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
- 
-</p>
 
 
+<b>My GitHub Stats</b>
 
-**I'm an Early 🐤** 
+<a href="http://www.github.com/Mr-Anubhav-pandey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Anubhav-pandey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-```text
-🌞 Morning    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
-🌆 Daytime    286 commits    ██████████░░░░░░░░░░░░░░░   41.45% 
-🌃 Evening    224 commits    ████████░░░░░░░░░░░░░░░░░   32.46% 
-🌙 Night      114 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52%
+<a href="http://www.github.com/Mr-Anubhav-pandey"><img src="https://activity-graph.herokuapp.com/graph?username=Mr-Anubhav-pandey&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-```
-<!--
-**Mr-Anubhav-pandey/Mr-Anubhav-pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
