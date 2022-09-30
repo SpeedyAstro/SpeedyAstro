@@ -3,4 +3,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Anubhav-pandey&theme=holi-theme&border_radius=20&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Anubhav-pandey&theme=holi-theme&hide_border=true&border_radius=22&fire=DD2727)](https://git.io/streak-stats)
