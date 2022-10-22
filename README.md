@@ -11,17 +11,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Anubhav-pandey&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=20202A" alt="Mr-Anubhav-pandey" />
 </a>
 
-- 📓 Your average college CE student. Good in coding, bad in circuits
+- 📓 average college CE student. Good in coding, bad in circuits
 
 - 🙃 Sometimes due to every day life I may leave a project halve finished, just to later pick it up a year later or so
 
-- My skills include mayor programming languages such as java and python, engineering, teamwork, among others
+- My skills include major programming languages such as java and python, engineering, teamwork, among others
 
 - 👯 I believe FOSS should be promoted more in the academy. Whatever I code for either college or personal use I put it public for others to peek and use it. Feedback and criticism are always welcome. 
 
 - 🌱 Currently learning better coding practices and more backend technologies
 
-- 👾 My OS of choice is Linux, it gives me the freedom and ease I could not find in Windows.
+- 👾 I use Linux OS, it gives me the freedom and ease I could not find in Windows.
 
 - 💻 Currently using Pop Os (open-source Linux distribution, based upon Ubuntu) on bspwm themed . You can find my dotfiles [here](https://github.com/Mr-Anubhav-pandey/dotfiles)
 
