@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 👯 I believe FOSS should be promoted more in the academy. Whatever I code for either college or personal use I put it public for others to peek and use it. Feedback and criticism are always welcome. 
 
-- 🌱 Currently learning better coding practices and more backend technologies
+- 🌱 Currently learning better coding practices and more backend technologies ,also i do code Desktop Application with java. I m open to every kind of stuff to get better in my coding skills.
 
 - 👾 I use Linux OS, it gives me the freedom and ease I could not find in Windows.
 
