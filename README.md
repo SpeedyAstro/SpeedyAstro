@@ -32,3 +32,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Connect with me 
 <a href="mailto:pandeyanubhav888@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width="29" height="29" /></a>&nbsp; &nbsp; 
+- Discord - Speedy Astro#1624
