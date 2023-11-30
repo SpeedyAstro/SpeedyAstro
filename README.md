@@ -31,7 +31,7 @@
 - 💻 Currently using Pop Os (open-source Linux distribution, based upon Ubuntu) on bspwm themed . You can find my dotfiles [here](https://github.com/SpeedyAstro/dotfiles)
 
 
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mr-Anubhav-pandey&theme=dark)](https://github.com/budennovsk/leetcode-stats)
 
 <a href="http://www.github.com/SpeedyAstro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SpeedyAstro&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
